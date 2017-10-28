@@ -21,10 +21,10 @@ These images may be used to express the ideology of kopimism for your works.
 **Kopimi Black**
 by: [d4rkd0s](https://github.com/d4rkd0s)
 
-![Kopimi Black](https://github.com/d4rkd0s/kopimi/raw/master/kopimi_square.png)
+![Kopimi Black](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square.png)
 
 
 **Kopimi Black with Text**
 by: [d4rkd0s](https://github.com/d4rkd0s)
 
-![Kopimi Black with Text](https://github.com/d4rkd0s/kopimi/raw/master/kopimi_square_text.png)
+![Kopimi Black with Text](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_text.png)
