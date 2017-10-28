@@ -169,6 +169,6 @@ by: [Kopimi Sect](http://www.kopimi.com/)
 **Copyme Blue**
 by: [Kopimi Sect](http://www.kopimi.com/)
 
-![Copyme Blue](https://github.com/d4rkd0s/kopimi/raw/master/images/copyme_blue.png)
+![Copyme Blue](https://github.com/d4rkd0s/kopimi/raw/master/images/copyme_blue_transparent.png)
 
 
