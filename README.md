@@ -1,4 +1,4 @@
-# kopimi
+# Kopimi
 
 **kopimi** read as "copyme", is a symbol showing that you want to be copied. use kopimi in your own fancy. kopimi may be put on homepages or blogs, in books, in software, as sound logos in music or whatever.
 
