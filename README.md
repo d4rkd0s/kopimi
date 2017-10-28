@@ -140,5 +140,23 @@ by: [Kopimi Sect](http://www.kopimi.com/)
 
 ![Kopimi_Nietzche_Zarathustra](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_nietzche_zarathustra.png)
 
+### Copyme
+
+A slight spin off "Kopimi" written in an easier to understand "copyme"
+
+**Copyme**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Copyme](https://github.com/d4rkd0s/kopimi/raw/master/images/copyme.png)
+
+**Copyme Text**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Copyme Text](https://github.com/d4rkd0s/kopimi/raw/master/images/copyme_text.png)
+
+**Copyme Red**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Copyme Red](https://github.com/d4rkd0s/kopimi/raw/master/images/copyme_red.png)
 
 
