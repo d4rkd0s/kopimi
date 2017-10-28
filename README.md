@@ -118,7 +118,7 @@ by: [d4rkd0s](https://github.com/d4rkd0s)
 **Kopimi Pink**
 by: [d4rkd0s](https://github.com/d4rkd0s)
 
-![Kopimi Pink](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_ping.png)
+![Kopimi Pink](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_pink.png)
 
 **Kopimi Orange**
 by: [d4rkd0s](https://github.com/d4rkd0s)
