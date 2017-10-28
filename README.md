@@ -89,3 +89,13 @@ by: [Kopimi Sect](http://www.kopimi.com/)
 by: [Kopimi Sect](http://www.kopimi.com/)
 
 ![Kopimi Yellow](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_yellow.png)
+
+**Kopimi Text**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi Text](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_text.png)
+
+**Kopimi Gray Lines**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi Gray Lines](https://github.com/d4rkd0s/kopimi/raw/master/images/gray_lines.png)
