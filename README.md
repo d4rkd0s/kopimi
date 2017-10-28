@@ -105,4 +105,29 @@ by: [d4rkd0s](https://github.com/d4rkd0s)
 
 ![Kopimi Purple](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_purple.png)
 
+**Kopimi Red**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Red](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_red.png)
+
+**Kopimi Green**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Green](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_green.png)
+
+**Kopimi Pink**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Pink](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_ping.png)
+
+**Kopimi Orange**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Orange](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_orange.png)
+
+**Kopimi Blue**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Blue](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_blue.png)
+
 
