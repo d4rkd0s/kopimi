@@ -4,6 +4,8 @@
 
 When using the "kopimi" image, realize it's an idea and may not hold enough legal merit to be used in court, it's recommended when using kopimi to also use the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) license in tandem with the kopimi ideaology. This in effect waives all rights to copyright, and leaves the bearer of copied material free from all legal obligations.
 
+http://www.kopimi.com/
+
 ## Creative Commons Zero License Images
 
 **CC0**
@@ -95,6 +97,11 @@ by: [Kopimi Sect](http://www.kopimi.com/)
 
 ![Kopimi Gray Lines](https://github.com/d4rkd0s/kopimi/raw/master/images/gray_lines.png)
 
+**Kopimi Black on White**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi Black on White](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_black_on_white.png)
+
 **Kopimi Yellow**
 by: [d4rkd0s](https://github.com/d4rkd0s)
 
@@ -140,5 +147,28 @@ by: [Kopimi Sect](http://www.kopimi.com/)
 
 ![Kopimi_Nietzche_Zarathustra](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_nietzche_zarathustra.png)
 
+### Copyme
+
+A slight spin off "Kopimi" written in an easier to understand "copyme"
+
+**Copyme**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Copyme](https://github.com/d4rkd0s/kopimi/raw/master/images/copyme.png)
+
+**Copyme Text**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Copyme Text](https://github.com/d4rkd0s/kopimi/raw/master/images/copyme_text.png)
+
+**Copyme Red**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Copyme Red](https://github.com/d4rkd0s/kopimi/raw/master/images/copyme_red.png)
+
+**Copyme Blue**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Copyme Blue](https://github.com/d4rkd0s/kopimi/raw/master/images/copyme_blue_transparent.png)
 
 
