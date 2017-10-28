@@ -105,4 +105,40 @@ by: [d4rkd0s](https://github.com/d4rkd0s)
 
 ![Kopimi Purple](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_purple.png)
 
+**Kopimi Red**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Red](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_red.png)
+
+**Kopimi Green**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Green](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_green.png)
+
+**Kopimi Pink**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Pink](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_pink.png)
+
+**Kopimi Orange**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Orange](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_orange.png)
+
+**Kopimi Blue**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Blue](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_blue.png)
+
+**Kopimi Pride**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi Pride](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_pride.png)
+
+**Kopimi_Nietzche_Zarathustra**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi_Nietzche_Zarathustra](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_nietzche_zarathustra.png)
+
+
 
