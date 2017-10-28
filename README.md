@@ -80,4 +80,12 @@ by: [d4rkd0s](https://github.com/d4rkd0s)
 
 ![Kopimi USA with Border](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_usa_border.png)
 
+**Kopimi Black**
+by: [Kopimi Sect](http://www.kopimi.com/)
 
+![Kopimi Black](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_white_on_black.png)
+
+**Kopimi Yellow**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi Yellow](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_yellow.png)
