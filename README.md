@@ -4,12 +4,6 @@
 
 When using the "kopimi" image, realize it's an idea and may not hold enough legal merit to be used in court, it's recommended when using kopimi to also use the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) license in tandem with the kopimi ideaology. This in effect waives all rights to copyright, and leaves the bearer of copied material free from all legal obligations.
 
-## Kopimizm
-
-An image that pretty much describes the ideology of Kopimizm
-
-![Kopimizm](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimizm.png)
-
 ## Creative Commons Zero License Images
 
 **CC0**
@@ -19,6 +13,12 @@ An image that pretty much describes the ideology of Kopimizm
 **CC0 Small**
 
 ![CC0-small](https://licensebuttons.net/p/zero/1.0/80x15.png)
+
+## Kopimizm
+
+An image that pretty much describes the ideology of Kopimizm
+
+![Kopimizm](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimizm.png)
 
 ## Kopimi Images
 
