@@ -28,3 +28,39 @@ by: [d4rkd0s](https://github.com/d4rkd0s)
 by: [d4rkd0s](https://github.com/d4rkd0s)
 
 ![Kopimi Black with Text](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_text.png)
+
+**Kopimi Blue**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Blue](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_blue.png)
+
+**Kopimi Green**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Green](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_green.png)
+
+**Kopimi Orange**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Orange](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_orange.png)
+
+**Kopimi Pink**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Pink](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_pink.png)
+
+**Kopimi Purple**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Purple](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_purple.png)
+
+**Kopimi Red**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Red](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_red.png)
+
+**Kopimi Yellow**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Yellow](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_yellow.png)
+
