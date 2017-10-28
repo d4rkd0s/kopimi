@@ -75,4 +75,9 @@ by: [Kopimi Sect](http://www.kopimi.com/)
 
 ![Kopimi USA](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_usa.png)
 
+**Kopimi USA with Border**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi USA with Border](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_usa_border.png)
+
 
