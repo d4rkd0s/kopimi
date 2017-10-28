@@ -85,11 +85,6 @@ by: [Kopimi Sect](http://www.kopimi.com/)
 
 ![Kopimi Black](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_white_on_black.png)
 
-**Kopimi Yellow**
-by: [Kopimi Sect](http://www.kopimi.com/)
-
-![Kopimi Yellow](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_yellow.png)
-
 **Kopimi Text**
 by: [Kopimi Sect](http://www.kopimi.com/)
 
@@ -99,3 +94,15 @@ by: [Kopimi Sect](http://www.kopimi.com/)
 by: [Kopimi Sect](http://www.kopimi.com/)
 
 ![Kopimi Gray Lines](https://github.com/d4rkd0s/kopimi/raw/master/images/gray_lines.png)
+
+**Kopimi Yellow**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Yellow](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_yellow.png)
+
+**Kopimi Purple**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Purple](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_purple.png)
+
+
