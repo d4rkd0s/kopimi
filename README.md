@@ -130,4 +130,15 @@ by: [d4rkd0s](https://github.com/d4rkd0s)
 
 ![Kopimi Blue](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_blue.png)
 
+**Kopimi Pride**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi Pride](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_pride.png)
+
+**Kopimi_Nietzche_Zarathustra**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi_Nietzche_Zarathustra](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_nietzche_zarathustra.png)
+
+
 
