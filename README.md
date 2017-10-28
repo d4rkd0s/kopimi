@@ -95,6 +95,11 @@ by: [Kopimi Sect](http://www.kopimi.com/)
 
 ![Kopimi Gray Lines](https://github.com/d4rkd0s/kopimi/raw/master/images/gray_lines.png)
 
+**Kopimi Black on White**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi Black on White](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_black_on_white.png)
+
 **Kopimi Yellow**
 by: [d4rkd0s](https://github.com/d4rkd0s)
 
