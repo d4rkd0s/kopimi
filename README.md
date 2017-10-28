@@ -70,9 +70,9 @@ by: [d4rkd0s](https://github.com/d4rkd0s)
 
 ![Kopimi Yellow](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_yellow.png)
 
-**Kopimi Yellow**
+**Kopimi USA**
 by: [Kopimi Sect](http://www.kopimi.com/)
 
-![Kopimi Yellow](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_yellow.png)
+![Kopimi USA](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_usa.png)
 
 
