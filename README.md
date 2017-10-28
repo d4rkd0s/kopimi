@@ -1,4 +1,4 @@
-# kopimi
+# Kopimi
 
 **kopimi** read as "copyme", is a symbol showing that you want to be copied. use kopimi in your own fancy. kopimi may be put on homepages or blogs, in books, in software, as sound logos in music or whatever.
 
@@ -8,11 +8,17 @@ When using the "kopimi" image, realize it's an idea and may not hold enough lega
 
 **CC0**
 
-![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)
+![CC0](https://github.com/d4rkd0s/kopimi/raw/master/images/creative_commons/88x31.png)
 
 **CC0 Small**
 
 ![CC0-small](https://licensebuttons.net/p/zero/1.0/80x15.png)
+
+## Kopimizm
+
+An image that pretty much describes the ideology of Kopimizm
+
+![Kopimizm](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimizm.png)
 
 ## Kopimi Images
 
@@ -63,4 +69,40 @@ by: [d4rkd0s](https://github.com/d4rkd0s)
 by: [d4rkd0s](https://github.com/d4rkd0s)
 
 ![Kopimi Yellow](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_square_yellow.png)
+
+**Kopimi USA**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi USA](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_usa.png)
+
+**Kopimi USA with Border**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi USA with Border](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_usa_border.png)
+
+**Kopimi Black**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi Black](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_white_on_black.png)
+
+**Kopimi Text**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi Text](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_text.png)
+
+**Kopimi Gray Lines**
+by: [Kopimi Sect](http://www.kopimi.com/)
+
+![Kopimi Gray Lines](https://github.com/d4rkd0s/kopimi/raw/master/images/gray_lines.png)
+
+**Kopimi Yellow**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Yellow](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_yellow.png)
+
+**Kopimi Purple**
+by: [d4rkd0s](https://github.com/d4rkd0s)
+
+![Kopimi Purple](https://github.com/d4rkd0s/kopimi/raw/master/images/kopimi_purple.png)
+
 
