@@ -4,6 +4,8 @@
 
 When using the "kopimi" image, realize it's an idea and may not hold enough legal merit to be used in court, it's recommended when using kopimi to also use the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) license in tandem with the kopimi ideaology. This in effect waives all rights to copyright, and leaves the bearer of copied material free from all legal obligations.
 
+http://www.kopimi.com/
+
 ## Creative Commons Zero License Images
 
 **CC0**
